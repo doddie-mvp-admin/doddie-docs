@@ -8,9 +8,6 @@ Doddie è una piattaforma di punta per la creazione e condivisione di video in f
 
 I Servizi sono forniti dalla società che si occupa dell’offerta dei Servizi nella vostra regione (“**Doddie**”, “**noi**” o “**ci**”):  
 
-- Residenti all’interno del SEE + Svizzera: I Servizi sono offerti da Doddie Technology Limited, società registrata in Irlanda con sede legale in 10 Earlsfort Terrace, Dublino, D02 T380, Irlanda e numero di registrazione della società 635755.
-- Residenti all’interno del Regno Unito: i Servizi sono offerti da Doddie Information Technologies UK Limited, società registrata in Inghilterra con sede legale in Wework, 125 Kingsway, Londra, WC2B 6NH e numero di registrazione della società 10165711.
-
 Il fornitore dei Servizi potrà cambiare in caso di vostro trasferimento in altro Paese pur continuando a fruire dei nostri Servizi. I Servizi sono forniti per uso privato non commerciale. Per le finalità delle presenti Condizioni, i termini “**voi**” e “**vostro**” indicheranno voi quali utenti dei Servizi.
 
 Le Condizioni costituiscono un contratto legalmente vincolante tra noi e l’utente. Vi chiediamo cortesemente di prendervi il tempo di leggerle attentamente; qualora non siate d’accordo, vi chiediamo di non iscrivervi, non accedere e non utilizzare alcun Servizio.
